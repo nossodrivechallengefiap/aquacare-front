@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um aplicativo mobile desenvolvido para o AquaCare, uma iniciativa voltada para o bem-estar de autistas e apoio às mães de crianças autistas. O aplicativo oferece diversas funcionalidades para auxiliar na gestão e monitoramento de atividades, além de fornecer recursos úteis para os usuários.
+A Aquacare é uma solução de monitoramento da qualidade da água, que oferece informações em tempo real sobre a condição dos corpos d'água. Com aplicação em diversos setores, desde concessionárias até governos e organizações não governamentais, seu propósito é garantir o cumprimento de normas ambientais, monitorar a potabilidade da água e auxiliar na detecção e gestão de desastres ambientais, contribuindo para a preservação dos ecossistemas aquáticos e a saúde pública.
 
 ## Integrantes
 
